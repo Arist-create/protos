@@ -1,4 +1,4 @@
-module protos
+module github.com/Arist-create/protos
 
 go 1.24.1
 
